@@ -1,1 +1,1 @@
-# Here is my portfolio! Powered by bootstrap and some javascript. Fully responsive and accessible in mobile!
+# Hello to whoever is reading this; here is my portfolio! Powered by Bootstrap and some Javascript. Fully responsive and accessible in mobile!
