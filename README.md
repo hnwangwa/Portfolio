@@ -1,1 +1,3 @@
-# Hello to whoever is reading this; here is my portfolio! Powered by Bootstrap and some Javascript. Fully responsive and accessible in mobile!
+Hi there! My portfolio can quickly be accessed [here] (https://hnwangwa.github.io/Portfolio/).
+
+Please let me know if you have any questions about my projects! 
